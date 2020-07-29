@@ -1,0 +1,117 @@
+body {
+    background-image: 
+  
+  }
+  
+  .fondo-gris {
+    background-color: rgb(49, 21, 209);
+    color: white !important;
+  }
+  .hero-section {
+    text-align: right !important;
+    background-image: url('../assent/img/principal.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 15% ;
+    font-family: 'Kalam', cursive;
+  }
+
+  h1 {
+    font-size: 440% !important;
+    text-align: left;
+  }
+  h2 {
+    font-size: 300% !important;
+    text-align: left;
+  }
+  #carousel1 {
+    padding: 6.25rem 3.125rem; 
+  }
+  p {
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Kalam', cursive;
+
+  }
+  #inicio1 {
+    width: 40%;
+    color: #ee6f08 !important;
+    
+  }
+  #ubicacion1 {
+    width: 100%;
+    border:#1814eb !important;
+  }
+  #final14 {
+    background-color:#1814eb !important;
+     
+    text-align: center;
+    height: 300pt;
+    margin-top: 1.5rem;
+  }
+  
+ .oscuro {
+  background: #1814eb;
+ color: #ffffff;
+ text-align: center;
+  }
+      
+ .oscuro a{
+ color: #ffffff;
+ text-decoration: none;
+ }
+ 
+    
+ 
+  h3, h4 {
+    color: #ffffff;
+  }
+
+p3 {
+    text-align: center !important;
+    font-size: 40pt;
+    font-family: 'Kalam', cursive;
+
+}
+#nombre {
+    text-align: center;
+}
+#card-deck {
+  font-family: 'Boogaloo', cursive;
+}
+.sweet-brown {
+   
+    background: #1814eb;
+    color: white;
+    padding: 3.125rem;
+   
+  }
+
+  .card{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 25px;
+  }
+  #eliminar{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 25px;  
+  }
+ 
+  .miexperiencia {
+    background-color: white;
+  }
+  
+  #final3 {
+    width: 20%;
+    display: block;
+    margin: auto;
+  }
+  .btn-info{
+    text-align: center;
+  }
+
+  @media (min-widt: 576px) {}
+  @media (min-widt: 768px) {}
+  @media (min-widt: 992px) {}
+  @media (min-widt: 1200px) {}
